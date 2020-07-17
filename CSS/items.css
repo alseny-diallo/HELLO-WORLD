@@ -24,3 +24,8 @@ ul li
     width: 100px;
     text-align: center;
 }
+
+ul li label
+{
+    position: relative;
+}
