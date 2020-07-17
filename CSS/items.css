@@ -75,3 +75,16 @@ ul li label .check:before
     transition: 0.5s;
     z-index: 3;
 }
+ul li label .check:after
+{
+    content: '';
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    right: 6px;
+    bottom: 6px;
+    background: #222;
+    border-radius: 50%;
+    z-index: 2;
+    border: 2px solid #161616;
+}
