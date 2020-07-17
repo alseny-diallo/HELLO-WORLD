@@ -42,3 +42,9 @@ ul li label i.fa
     color: #222;
     transition: 0.5s;
 }
+
+ul li label input[type="checkbox"]
+{
+    position: absolute;
+    cursor: pointer;
+}
