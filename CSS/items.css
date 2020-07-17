@@ -8,3 +8,11 @@ body
     background: #000;
     height: 60vh;
 }
+
+ul
+{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
