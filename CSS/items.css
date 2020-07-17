@@ -16,3 +16,11 @@ ul
     padding: 0;
     display: flex;
 }
+
+ul li
+{
+    position: relative;
+    list-style: none;
+    width: 100px;
+    text-align: center;
+}
